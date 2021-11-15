@@ -22,41 +22,38 @@ sidebar:
     gitlab:
     bitbucket:
     twitter: '@rimz93'
-    stack-overflow: rimz93
+    stack-overflow: 7021561
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: https://1drv.ms/b/s!AjBCNHbAhk8Qm7wqHg8dNrEt70VGKw?e=AJdBxY
 
     languages:
       - idiom: English
         level: Native
 
       - idiom: Bengali
-        level: Professional
+        level: Conversational
 
     interests:
-      - item: Climbing
+      - item: Problem-Solving
         link:
 
-      - item: Snowboarding
+      - item: Entrepreneurship
         link:
 
-      - item: Cooking
+      - item: Long drives
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I'm a software and data enthusiast with an educational background in computer programming and analysis. You can [download my resume here](https://1drv.ms/b/s!AjBCNHbAhk8Qm7wqHg8dNrEt70VGKw?e=AJdBxY).
+      My experience broadens to OOP languages, web architecture, backend engineering, and frontend design/development with a focus in Java based solutions and frameworks such as Spring, Apache, and Enterprise/Mobile applications.
+      
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Advanced Diploma in Computer Programming & Analysis
+      university: Seneca College
+      time: 2014 - 2019
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -65,9 +62,9 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree:
+      university:
+      time:  - 
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
