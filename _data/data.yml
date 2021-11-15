@@ -63,113 +63,113 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Client Services for Apple Campaign
+      time: Feb, 2021 - Present
+      company: Teleperformance Canada, Toronto
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        - Coordinate and perform remote fixes at the desktop level,
+         including installing and upgrading software,
+          implementing file backups,
+           and configuring systems and applications 
+        - Remotely troubleshoot issues relating
+         to hardware and software with Apple products
+        - Knowledge of macOS, iOS and iCloud technologies
+           Research and grasp technical information across
+            multiple tools while talking with clients
+        - Complete technical and special projects as assigned
+    - role: Microsoft Azure Cloud Specialist for Ingram Micro Campaign
+      time: 2020 - 2021
+      company: Teleperformance Canada, Toronto
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+          - Provide operational support of Microsoft Azure and escalate to Microsoft when appropriate
+          - Identify root cause(s) and diagnose defects, misconfiguration and client issues
+          - Update Azure licenses, subscriptions and user management as necessary
+          - Work closely with Microsoft to follow up on escalated incidents
+          - Develop, foster and maintain highly effective customer interaction
+          - Develop, foster and maintain effective working relationships with engineering to enhance the customer experience
+          - Notice trends and report reoccurring problems
+          - Stay up to date with technological changes in the industry with internal and external training
+          - Accurately document all work performed through ticketing system including details and outcomes
+          - Participate in product testing, tool building and pilot new projects
+          - Share knowledge with teammates and guide them in the resolution of complex technical problems
+    - role: System Administrator
+      time: 2019 - 2020
+      company: TEAM Group, Markham
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - Maintain and administer computer networks and related computing environments including computer hardware, systems software, applications software, and all configurations
+          - Perform data backups and recovery operations
+          - Diagnose, troubleshoot, and resolve hardware, software, or other network and system problems, and replace defective components when necessary
+          - Plan, coordinate, and implement network security measures to protect data, software, and hardware
+          - Configure, monitor, and maintain email applications or virus protection software
+          - Operate master consoles to monitor the performance of computer systems and networks, and to coordinate computer network access and use
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      A list of some side projects. Mainly web and mobile applications.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: COVID-19 Tracker - Web App using Vue.js framework
+        link: "http://www.coronatracker.ca/#/panel/overview"
+        tagline: "Displays Canada-wide map with confirmed cases/deaths and other statistics using live data from health-infobase.canada.ca database."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Balls3D - Android/iOS Game using Unity/C#
+        link: "https://play.google.com/store/apps/details?id=com.RimZEntertainment.Balls3D&hl=en&gl=US"
+        tagline: "Brick styled 3D game designed and developed using Unity Engine and distributed within Android Play Store and iOS App Store"
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Toronto Reproductive Health Clinic - Android/iOS App using Ionic/AngularJS framework
+        link: "https://m.apkpure.com/toronto-sexual-health-clinics/com.ionicframework.ionicproject489640"
+        tagline: "Used 'Open Data' provided by Government of Canada to display clinic information such as services, hours, and locations"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Space Retreat -  Android Game
+        link: "https://m.apkpure.com/space-retreat/com.rimz_ent.SpaceRetreat"
+        tagline: "2D game initially developed using Delphi in high school then remade using Unity with Java"
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Bristol Roofing
+        link: "https://bristolroofing.ca/"
+        tagline: "A responsive 5-page Bootstrap website designed and hosted for roofing company to promote their online presence and gain customers"
 
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      No official publications yet here are some of my favourite reads.
     papers:
       - title: The Art of Computer Programming
         link: "#"
         authors: Donald E. Knuth
         conference: Addison-Wesley, 1968
-
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         link: "#"
         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
+      - title: The Intelligent Investor Rev Ed.
         link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        authors: Benjamin Graham
+        conference: ""
+      - title: How to Win Friends & Influence People
+        link: "#"
+        authors: Dale Carnegie
+        conference: ""
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Java & C#
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: HTML & CSS
         level: 98%
 
-      - name: Angular
+      - name: JavaScript
         level: 98%
 
-      - name: HTML5 & CSS
+      - name: Database management, MySQL; PostgreSQL;
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Spring framework, APIs
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: 3D Modelling, Sketch, Blender
         level: 60%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed with <i class="fas fa-heart"></i>
